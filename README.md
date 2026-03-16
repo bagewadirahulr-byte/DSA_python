@@ -1,30 +1,19 @@
-LeetCode Solutions in Python
+LEETCODE SOLUTIONS IN PYTHON
+This repository contains my solutions to LeetCode problems implemented in Python.
 
-This repository contains my solutions to various LeetCode problems implemented using Python.
-The main goal of this repository is to strengthen my understanding of Data Structures and Algorithms while improving my problem-solving skills for real-world applications.
+My primary focus is on Web Development and building Python projects. This repository is mainly used to practice and understand the fundamentals of Data Structures and Algorithms through problem solving.
 
-I am currently focusing on mastering the basics of Python in DSA and practicing problems regularly to build strong logical thinking.
 
-What this repository includes
+PURPOSE
+Learn and practice basic DSA concepts
+Improve logical and analytical thinking
+Strengthen Python problem-solving skills
 
-•⁠  ⁠LeetCode problem solutions written in Python
-•⁠  ⁠Clean and simple code for better understanding
-•⁠  ⁠Practice focused on core DSA concepts and problem solving
+TOPICS COVERED
+Arrays
+Strings
+Hash Maps
+Basic Algorithms
 
-Topics Covered
 
-•⁠  ⁠Arrays
-•⁠  ⁠Strings
-•⁠  ⁠Hash Maps
-•⁠  ⁠Recursion
-•⁠  ⁠Basic Algorithms
-
-Purpose
-
-The purpose of this repository is to:
-
-•⁠  ⁠Improve problem-solving ability
-•⁠  ⁠Build a strong foundation in Data Structures and Algorithms
-•⁠  ⁠Maintain a consistent coding practice
-
-I will continue updating this repository as I solve more problems and learn new concepts.
+I will continue adding solutions as I practice more problems.
