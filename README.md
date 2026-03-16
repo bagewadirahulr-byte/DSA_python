@@ -18,3 +18,6 @@ Topics Covered
 •⁠  ⁠Basic Algorithms
 
 I will continue adding solutions as I practice more problems.
+
+author
+RAHUL R BAGEWADI
