@@ -19,5 +19,5 @@ Topics Covered
 
 I will continue adding solutions as I practice more problems.
 
-author
+author:
 RAHUL R BAGEWADI
